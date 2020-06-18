@@ -1,0 +1,12 @@
+.testa{
+  height: 255px;
+  background-image: url("https://www.testacroce.net/images/moneta8.png");
+  background-repeat: no-repeat;
+
+}
+
+.croce{
+  height: 255px;
+  background-image: url("https://www.testacroce.net/images/moneta0.png");
+  background-repeat: no-repeat;
+}
