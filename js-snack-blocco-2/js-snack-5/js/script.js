@@ -1,10 +1,10 @@
-var numeri = [];
+var numeriDispari = [];
 
 for (var i = 0; i < 6; i++) {
   var numero = prompt("Inserisci un numero");
 
     if (numero %2 == 1) {
-      numeri.push(numero);
+      numeriDispari.push(numero);
     }
 }
-console.log(numeri);
+console.log(numeriDispari);

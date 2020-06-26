@@ -14,7 +14,7 @@ for (var i = 0; i < invitati.length; i++) {
 }
 
 if (nomiAccettati == true) {
-  console.log("Sei nella lista");
+  console.log("Sei sulla lista");
 } else {
   console.log("Non sei sulla lista");
 }

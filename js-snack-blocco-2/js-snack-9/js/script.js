@@ -4,5 +4,5 @@ for (var i = 0; i < 10; i++) {
   somma += parseInt(numero);
   media = somma / 10;
 }
-console.log(somma);
-console.log(media);
+console.log("La somma è:", somma);
+console.log("La media è:", media);

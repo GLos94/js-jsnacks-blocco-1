@@ -5,4 +5,4 @@ for (var i = 0; i < numero.length; i++) {
   somma += parseInt(numero[i]);
 }
 
-console.log(somma);
+console.log("La somma è:", somma);
